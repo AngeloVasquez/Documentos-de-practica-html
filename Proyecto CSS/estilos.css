@@ -1,0 +1,28 @@
+p {
+	 width:850px;
+	 height:125px;
+	 background:#AED09E;
+	 margin:20px 40px;
+	 padding:15px;
+	 border:3px solid #7E6752;
+	} 
+h3,h2 {
+	width:165px;
+	background:#61B292;
+}
+li {
+	width:70px;
+	height:20px;
+	margin:8px 5px;
+	padding:5px;
+	background:#F4EEC0;
+
+}
+body{
+	background:url(imagen/fondosm2.jpg);
+	color:#032A33;
+}
+
+
+
+

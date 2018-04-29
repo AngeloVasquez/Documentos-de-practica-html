@@ -1,0 +1,133 @@
+.divlogo {
+	height: 80px;
+	 width: 100%;
+	background: black;
+}
+.divlogo img {
+	
+	 width: 132px;
+	height: 80px;
+	padding-left: 190px;
+}
+p {
+	font-size: 16.5px;
+}
+div h1 {
+	color: white;
+	font-size: 64px;
+	display: block;
+	margin-top: 154px;
+	margin-left: 224px;
+	height: 180px;
+	width:  800px;
+	font-family: arial;
+}
+div p {
+	color: black;
+	margin-left: 400px;
+	margin-top: -15px;
+}
+div p a {
+	color: white;
+
+}
+.pipa1 {
+	
+	display: block;
+    height: auto;
+    margin-left: 70%;
+    margin-top:-251px;
+    margin-bottom: -280px;
+}
+.pipa2 {
+	
+	margin-left: 78.5%;
+	margin-bottom: -201px;
+	height: 84px;
+	width: 84px;
+}
+.pipa3 {
+	
+	margin-left: 80.5%;
+	margin-bottom: -153px;
+	height: 24px;
+	width: 24px;
+}
+/*division en blanco comienza aqui*/
+
+.divcioninferior {
+	background-color: #f8f8f8;
+	width: 100%;
+	height:100%;
+	text-align: center;
+	margin-top: 333px;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.divicionagrupador {
+
+}
+.divh23 {
+
+}
+.divh23 h2 {
+	font-size: 34px;
+	margin-top: -49px;
+    padding-top: 25px;
+    margin-bottom: -7px;
+}
+.divh23 h3 {
+	font-size: 16.5px;
+    margin-top: -20px;
+    padding-top: 30px;
+    margin-bottom: 35px;
+}
+/*division en gris comienza aqui*/
+
+.divgris {
+	background: #222326;
+	text-align: center;
+}
+.divimg2 {
+
+}
+.divh3 {
+	color: #fff;
+}
+
+.ul1{
+	color: #1db954;
+	list-style-type: none;
+	margin-left: 370px;
+	
+}
+.ul1 li {
+	color: #fff;
+	/*display:inline-block;*/
+	display: inline-flex;
+}
+.ul1 li span {
+	background: #1db954;
+	height: 7px;
+	width: 7px;
+	border-radius: 50%;
+	display: block;
+}
+
+
+.ul2 {
+	list-style-type: none;
+	margin-right: 170px;
+}
+.ul2  li {
+	color: #1db954;
+    border-bottom: 1px solid currentColor;
+    display: inline-flex; 
+}
+.ul2 li span {
+	background: #1db954;
+	height: 7px;
+	width: 7px;
+	border-radius: 50%;
+	display: block;
+}

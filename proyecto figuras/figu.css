@@ -1,0 +1,61 @@
+.green {
+	background:white;
+	height:40px;
+	padding:10px 10px;
+	color:#000;
+	float:right;
+}
+.green ul {
+	list-style:none;
+}
+.green ul li {
+	float:left;
+	padding:20px 20px;
+
+
+}
+.logo {
+	background:white;
+	width:395px;
+	height:310px;	
+	padding:20px 20px;
+	margin:5px auto;
+	color:white;
+}
+.logo img {
+	width:100%; 
+}
+.button1 {
+	background:#4285f4; 
+    border: none;
+    color:white;
+    padding: 5px 10px;
+    text-align:center;
+    text-decoration:none;
+    display:inline-block;
+    font-size: 15px;
+    font-style:bold;
+}
+
+.micro {
+	width:400px;
+	height:10px;
+	padding:0px 0px;
+	margin:auto;
+	position: relative;
+
+}
+.micro img {
+	position:absolute;
+	top: 15px;
+    right: -115px;
+    width: 26px;
+}
+
+.buscador {
+	font-weight:1000;
+	font-size:36px;
+	padding: 0px;
+	border-radius:4px 4px 4px; 
+
+}

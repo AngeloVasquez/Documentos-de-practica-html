@@ -1,0 +1,76 @@
+.divnavtophome {
+    border-bottom: 1.5px solid #F2F2F2;
+    padding-bottom: 20px;
+
+}
+.topnav {
+    list-style-type: none;
+    margin: -42px 0px 0px 390px;
+    font-family: "Gotham_SSm_3r", Helvetica, Arial, sans-serif;
+    font-size: small;
+
+}
+.topnav li {
+    display: inline-block;
+    letter-spacing: 1px;
+    margin:10px 13px;
+
+}
+.openboton{
+    line-height: normal;
+    text-decoration: none;
+    text-align: center;
+    color: #fff;
+    background: #2dbe60;
+    border: 0;
+    border-radius: 4px;
+    padding: 17px 93px 17px;
+    font-family: bold;
+    font-size: 17px;
+}
+.boton {
+    padding: 15px 20px 14px 20px;
+    background: white;
+    border:solid 2px black;
+    border-radius: 5px;
+    margin: 0px 0px 0px 459px;
+}
+.boton:hover{
+    color: #2dbe60;
+    border: solid #2dbe60;
+}
+.divagrupador {
+    /*float:left;*/
+    width: 57em;
+    /*position: absolute;
+    top: 60%;
+    left: 35%;*/
+    /*transform: translateX(-30%) translateY(100px);*/
+   
+
+}
+.divagrupador2 {
+    text-align: center;
+    font-family: "Gotham_SSm_5r", Helvetica, Arial, sans-serif;
+
+}
+.textoprincipal {
+    font-size: 35px;
+    line-height: 45px;
+    margin-top: 110px
+}
+.divimagen .imagen {
+    margin-left: 760px;
+    margin-bottom: 0px;
+    margin-top: -332px;
+}
+.imagen {
+    width: 600px;
+    height:520px;
+    float:none;
+}
+.logearse {
+    font-family: "Gotham_SSm_5r", Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    line-height: 21px;
+}

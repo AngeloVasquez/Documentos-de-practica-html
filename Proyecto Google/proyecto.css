@@ -1,0 +1,110 @@
+.element {
+	height: 233px;
+    margin-top: 89px;
+    background: #white;
+
+}
+
+.img {
+    user-select: none;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    width: 391px;
+    height: 220px;
+    padding: 0%;
+    margin: 0%;
+    cursor: pointer;
+    transition: opacity 2s;
+   	left: 520px;
+}
+.buscar{
+	position: absolute;
+	background:white;
+	border: 0px;
+    padding: 0px;
+    margin:0% -1%;
+    height: 300%;
+    width: 38%;
+    z-index: 6;
+    left: 450px;
+    right: 50%;
+    font: 16px arial,sans-serif;
+    line-height: 15px;
+    height: 42px !important;
+    outline: 0;
+    box-shadow: 1px 3px 1px  1px #C0C0C0;
+}
+
+.rectangulo {
+	background:white;
+	width:450px;
+	height:20px;
+	padding:0%;
+	margin:4% 36%;
+	color border: #E0E0E0
+
+}
+.a {
+	
+    
+    background:#f1f1f1;
+	background-color: #f2f2f2;
+	border: 1px solid #f2f2f2;
+	font-weight: bold;
+	font-family: arial,sans-serif;
+	width: 151.6px;
+	height:36px;
+	line-height: 27px;
+	color: #757575;
+	margin: 11px 4px;
+	padding: 0 16px;
+	font-size: small;
+	border-radius: 1px;
+	text-align: center;
+	border-left-width: 1px;
+	border-right-width: 1px;
+	border-top-width: 1px;
+	border-bottom width: 1px;
+	border-width: 0px;
+    border-style: outset;
+    border-color: #f2f2f2;
+    border-image: initial;
+
+}
+
+
+.b {								/*		#f5f5f5		*/
+	background:#f1f1f1;
+	background-color: #f2f2f2;
+	border: 1px solid #f2f2f2;
+	font-weight: bold;
+	font-family: arial,sans-serif;
+	width: 163.6px;
+	height:36px;
+	line-height: 27px;
+	color: #757575;
+	margin: 11px 4px;
+	padding: 0 16px;
+	font-size: small;
+	border-radius: 1px;
+	text-align: center;
+	border-left-width: 1px;
+	border-right-width: 1px;
+	border-top-width: 1px;
+	border-bottom width: 1px;
+	border-width: 0px;
+    border-style: outset;
+    border-color: #f2f2f2	;
+    border-image: initial;
+}
+.b:hover {
+	color: black;
+}
+.a:hover {
+	color: black;
+}
+.ofrecido {
+	width: 300px;
+	margin: auto;
+	font-family: arial,sans-serif;
+	font-size: small;
+}
